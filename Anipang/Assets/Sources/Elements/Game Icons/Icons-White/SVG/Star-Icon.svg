@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 480 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-9,-20)">
+        <g id="Star-Icon" transform="matrix(4.71489,0,0,4.71489,-3614.6,-1567.45)">
+            <path d="M819.375,336.894C829.284,336.894 838.102,364.218 838.102,364.218C838.102,364.218 866.814,364.161 869.876,373.585C872.938,383.009 849.675,399.839 849.675,399.839C849.675,399.839 858.603,427.127 850.586,432.952C842.57,438.776 819.375,421.853 819.375,421.853C819.375,421.853 796.18,438.776 788.164,432.952C780.147,427.127 789.075,399.839 789.075,399.839C789.075,399.839 765.812,383.009 768.874,373.585C771.936,364.161 800.648,364.218 800.648,364.218C800.648,364.218 809.466,336.894 819.375,336.894Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

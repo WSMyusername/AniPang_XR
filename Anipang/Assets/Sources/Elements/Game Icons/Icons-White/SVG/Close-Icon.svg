@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 410 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-43,-43)">
+        <g id="Close-Icon" transform="matrix(1.3864,0,0,1.40346,-1402.47,0.271807)">
+            <g transform="matrix(4.60432,4.4448,-4.37146,4.22001,-813.203,-6462.44)">
+                <path d="M972.665,536.239C972.665,531.201 968.783,527.112 964.002,527.112C959.221,527.112 955.339,531.201 955.339,536.239L955.339,577.883C955.339,582.92 959.221,587.01 964.002,587.01C968.783,587.01 972.665,582.92 972.665,577.883L972.665,536.239Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(-4.60432,4.4448,-4.37146,-4.22001,8063.95,-1760.84)">
+                <path d="M972.665,536.239C972.665,531.201 968.783,527.112 964.002,527.112C959.221,527.112 955.339,531.201 955.339,536.239L955.339,577.883C955.339,582.92 959.221,587.01 964.002,587.01C968.783,587.01 972.665,582.92 972.665,577.883L972.665,536.239Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

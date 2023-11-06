@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 474 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-15,-44)">
+        <g id="Tick-Icon" transform="matrix(10.0495,0,0,9.94174,-12604.6,-8727.95)">
+            <path d="M1277.54,906.686C1281.19,904.768 1286.92,889.874 1290.15,884.963C1291.84,882.398 1295.86,881.586 1299.21,883.255C1302.56,884.925 1303.65,889.35 1302.17,892.254C1298.82,898.815 1289.37,913.573 1285.25,919.124C1282.55,922.76 1276.35,923.628 1272.1,920.075C1267.98,916.629 1260.2,910.79 1257.56,907.979C1255.59,905.89 1255.03,901.965 1257.37,899.217C1259.91,896.242 1263.56,896.049 1267.47,899.424C1270.01,901.618 1275.47,907.771 1277.54,906.686Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 458 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-20,-11)">
+        <g id="Pause-Icon" transform="matrix(6.16237,0,0,5.81048,-3554.66,-1351.08)">
+            <g transform="matrix(1,0,0,1,-1206.27,-222.92)">
+                <path d="M1814.94,468.01C1814.94,462.142 1810.45,457.378 1804.92,457.378L1796.49,457.378C1790.95,457.378 1786.46,462.142 1786.46,468.01L1786.46,529.262C1786.46,535.13 1790.95,539.894 1796.49,539.894L1804.92,539.894C1810.45,539.894 1814.94,535.13 1814.94,529.262L1814.94,468.01Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-1160.62,-222.92)">
+                <path d="M1814.94,468.01C1814.94,462.142 1810.45,457.378 1804.92,457.378L1796.49,457.378C1790.95,457.378 1786.46,462.142 1786.46,468.01L1786.46,529.262C1786.46,535.13 1790.95,539.894 1796.49,539.894L1804.92,539.894C1810.45,539.894 1814.94,535.13 1814.94,529.262L1814.94,468.01Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2009920570472331203}
   - component: {fileID: 8946954170358822463}
   - component: {fileID: -4831690409076498877}
-  - component: {fileID: -6370732525815836019}
+  - component: {fileID: 1962146729799267795}
   m_Layer: 0
   m_Name: beige
   m_TagString: Beige
@@ -134,14 +134,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d6357e5f2f41bc429ad42dba0696323, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MoveVec: {x: 0, y: 0}
   swipeAngle: 0
   column: 0
   row: 0
-  t_Column: 0
-  t_Row: 0
   TargetX: 0
   TargetY: 0
---- !u!95 &-6370732525815836019
+  isMatched: 0
+  isMovedByOther: 0
+  anim: {fileID: 0}
+--- !u!95 &1962146729799267795
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0

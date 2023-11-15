@@ -683,7 +683,6 @@ MonoBehaviour:
   PoolMng: {fileID: 957526686}
   deleteVecList: []
   EmptyLine: 
-  SelectedCookie: {x: 0, y: 0}
   isChecking: 0
   state: 0
 --- !u!1 &1726576678

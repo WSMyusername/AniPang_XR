@@ -86,10 +86,6 @@ public class Pooling : MonoBehaviour
 
     public void ReturnToPool(GameObject returnCookie)
     {
-
-        returnCookie.GetComponent<Cookie>().anim.SetTrigger("Pang");
-
-
         returnCookie.transform.parent = this.transform;
         returnCookie.GetComponent<Cookie>().column = -1;
         returnCookie.GetComponent<Cookie>().row = -1;

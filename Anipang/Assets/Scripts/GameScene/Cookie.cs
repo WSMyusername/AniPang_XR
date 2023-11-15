@@ -26,21 +26,25 @@ public class Cookie : MonoBehaviour
     public bool isMatched;
     public bool isMovedByOther;
 
-    public Animator anim;
-    Collider2D coll;
     
+    Collider2D coll;
+
+
+    public Animator anim;
 
     //-------------------------------------------------- Unity Callbacks
     private void Awake()
     {
         board = FindObjectOfType<Board>();
-        anim = GetComponent<Animator>();
+        
         coll = GetComponent<Collider2D>();
+
+        anim = this.gameObject.GetComponent<Animator>();
     }
 
     private void Start()
     {
-        ResetCookie();
+        ResetCookie();   
     }
 
     private void FixedUpdate()
@@ -108,7 +112,7 @@ public class Cookie : MonoBehaviour
 
     //-------------------------------------------------- Coroutine
 
-    public IEnumerator CookieFall(int _column, int _row) // When Cookie Initialize
+    public IEnumerator CookieInitialized(int _column, int _row) // When Cookie Initialize
     {
         Vector2 TargetPos = new Vector2(_column, _row);
 
@@ -123,7 +127,7 @@ public class Cookie : MonoBehaviour
         column = _column;
         row = _row;
 
-        anim.SetTrigger("Set");
+        anim.Play("CookieSet");
         
     }
 

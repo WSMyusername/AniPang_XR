@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3638580612986849776}
   - component: {fileID: -8075823812707672429}
   - component: {fileID: -8396278852619118363}
-  - component: {fileID: -5892578529021008616}
+  - component: {fileID: -6811013570234442925}
   m_Layer: 0
   m_Name: brown
   m_TagString: Brown
@@ -134,14 +134,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d6357e5f2f41bc429ad42dba0696323, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MoveVec: {x: 0, y: 0}
   swipeAngle: 0
   column: 0
   row: 0
-  t_Column: 0
-  t_Row: 0
   TargetX: 0
   TargetY: 0
---- !u!95 &-5892578529021008616
+  isMatched: 0
+  isMovedByOther: 0
+  anim: {fileID: 0}
+--- !u!95 &-6811013570234442925
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0

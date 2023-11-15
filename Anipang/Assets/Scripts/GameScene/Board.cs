@@ -109,7 +109,7 @@ public class Board : MonoBehaviour
     void SetCookie(int _column, int _row, GameObject _cookie)
     {
         _cookie.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 1);
-        StartCoroutine(_cookie.GetComponent<Cookie>().CookieFall(_column, _row));
+        StartCoroutine(_cookie.GetComponent<Cookie>().CookieInitialized(_column, _row));
     }
 
     IEnumerator CheckInitialize()
